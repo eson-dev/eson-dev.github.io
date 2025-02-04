@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game | Eson See</title>
+    <link>https://eson.dev/tags/game/</link>
+      <atom:link href="https://eson.dev/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <description>Game</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 - 2025 Eson See</copyright><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eson.dev/img/screenshot-alpha.png</url>
+      <title>Game</title>
+      <link>https://eson.dev/tags/game/</link>
+    </image>
+    
+    <item>
+      <title>Fairgame$</title>
+      <link>https://eson.dev/project/fairgames/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://eson.dev/project/fairgames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainbow Six Siege</title>
+      <link>https://eson.dev/project/rainbow-six-siege/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://eson.dev/project/rainbow-six-siege/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>For Honor</title>
+      <link>https://eson.dev/project/for-honor/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://eson.dev/project/for-honor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

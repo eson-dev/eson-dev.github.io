@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event | Eson See</title>
+    <link>https://eson.dev/tags/event/</link>
+      <atom:link href="https://eson.dev/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Event</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 - 2025 Eson See</copyright><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eson.dev/img/screenshot-alpha.png</url>
+      <title>Event</title>
+      <link>https://eson.dev/tags/event/</link>
+    </image>
+    
+    <item>
+      <title>ConFoo Montreal 2020</title>
+      <link>https://eson.dev/post/confoo-montreal-2020/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://eson.dev/post/confoo-montreal-2020/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had the opportunity to attend 
+&lt;a href=&#34;https://confoo.ca/en/yul2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ConFoo Montreal 2020&lt;/a&gt; at Hotel Bonaventure Montréal this week.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-hotel&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/hotel/conference%20hall.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/hotel/conference%20hall_hue776a334b902d7828bf5c7a8aa11ccb3_700097_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-hotel&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/hotel/view.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/hotel/view_hue776a334b902d7828bf5c7a8aa11ccb3_871626_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-is-confoo&#34;&gt;What is ConFoo?&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://confoo.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ConFoo&lt;/a&gt; is a nonprofit organization founded by 
+&lt;a href=&#34;https://twitter.com/ylarrivee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yann Larrivée&lt;/a&gt;. In 18 years, the event has evolved from a PHP conference to include all web technologies and related topics.&lt;/p&gt;
+&lt;p&gt;All the topics this year are listed 
+&lt;a href=&#34;https://confoo.ca/en/yul2020/schedule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and the presentation slides were uploaded by the organizer at this Github repository: 
+&lt;a href=&#34;https://github.com/confooca/yul2020-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/confooca/yul2020-slides&lt;/a&gt; 😍&lt;/p&gt;
+&lt;h3 id=&#34;the-presentations&#34;&gt;The Presentations&lt;/h3&gt;
+&lt;p&gt;The presentation on Go and Kubernetes were most related to my current job, and they were super popular with the rooms fully packed. Sadly there was only one single session on Go.&lt;/p&gt;
+&lt;p&gt;It was also nice to see some cool things in Python 3 since I&amp;rsquo;ve been coding using Python 2.7 for the past 3 years. Even though the chance of me switching to Python 3 at work remains low.&lt;/p&gt;
+&lt;p&gt;For historical reason, the conference is mostly on web technologies with a lot of them on PHP (which I didn&amp;rsquo;t attend any). Besides those, there were many talks on various JavaScript topics. It&amp;rsquo;s interesting to know that we now have browser API to get battery status and connect to Bluetooth devices; you can also build an indie platformer game (like 
+&lt;a href=&#34;http://www.celestegame.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Celeste&lt;/a&gt;) running at 60fps and publish on Steam.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://flutter.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flutter&lt;/a&gt; from Google looks promising and I am eager to try it out. It looks like an attempt from Google to promote 
+&lt;a href=&#34;https://dart.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dart&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;the-swag-stuff-we-all-get&#34;&gt;The Swag (Stuff We All Get)&lt;/h3&gt;
+&lt;p&gt;Every participant get a goodie bag with some stickers and magnets in it.
+&lt;img src=&#34;swag.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Of course, food, drinks and lots of coffee ☕ to keep us awake
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-food&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/food/1-2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/food/1-2_hu7af45c05e7eaab656aeab8d5fe153c59_164196_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-food&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/food/2-2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/food/2-2_hu7af45c05e7eaab656aeab8d5fe153c59_142495_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-food&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/food/3-2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/food/3-2_hu7af45c05e7eaab656aeab8d5fe153c59_130475_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-food&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/food/4.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/food/4_hu7af45c05e7eaab656aeab8d5fe153c59_125167_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&amp;hellip; plus community cocktail 🍻 with retro games 🎮 after a long day.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-party&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/party/party1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/party/party1_hu7af45c05e7eaab656aeab8d5fe153c59_211879_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-party&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/party/party2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/party/party2_hu7af45c05e7eaab656aeab8d5fe153c59_107909_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;p&gt;Thank you Confoo, the event sponsors, and my employer for sending me to attend. Until next time!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;sponsors.png&#34; alt=&#34;ConFoo Montreal 2020 Event Sponsors&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

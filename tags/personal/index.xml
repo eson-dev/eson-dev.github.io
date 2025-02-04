@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal | Eson See</title>
+    <link>https://eson.dev/tags/personal/</link>
+      <atom:link href="https://eson.dev/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 - 2025 Eson See</copyright><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eson.dev/img/screenshot-alpha.png</url>
+      <title>Personal</title>
+      <link>https://eson.dev/tags/personal/</link>
+    </image>
+    
+    <item>
+      <title>Joining Invoke Studios as Principal Online Programmer</title>
+      <link>https://eson.dev/post/principal-online-programmer-at-invoke/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://eson.dev/post/principal-online-programmer-at-invoke/</guid>
+      <description>&lt;p&gt;After 3 eventful years at Haven, I&amp;rsquo;ve decided to take on an opportunity to advance as a Principal Online Programmer at 
+&lt;a href=&#34;https://invokestudios.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Invoke Studios&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Invoke is one of the game studios under the 
+&lt;a href=&#34;https://company.wizards.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wizards of the Coast&lt;/a&gt; (WotC) family, a subsidiary of 
+&lt;a href=&#34;https://corporate.hasbro.com/en-us&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hasbro&lt;/a&gt;. WotC owns popular brands such as &lt;em&gt;Magic: The Gathering&lt;/em&gt; and &lt;em&gt;Dungeons &amp;amp; Dragons&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m joining a group of talented people working on an unannounced project, and will be developing its online tech stack for the years to come. I&amp;rsquo;ll be taking on more responsibilities compared to my previous jobs and I&amp;rsquo;m excited for the challenges ahead!&lt;/p&gt;
+&lt;p&gt;It was very kind of Invoke to welcome me with a special video clip on their social media platforms (posts: 
+&lt;a href=&#34;https://www.linkedin.com/posts/invokestudios_on-souhaite-aujourdhui-la-bienvenue-%C3%A0-eson-activity-7242215396680896512-28SV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; / 
+&lt;a href=&#34;https://fb.watch/uT1Ezt1ti6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;):&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video autoplay loop &gt;
+  &lt;source src=&#34;invoke-eson-intro.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;Hopefully in the near future we&amp;rsquo;ll unveil the game we&amp;rsquo;re working on. Stay tuned!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting a New Job at Haven Studios</title>
+      <link>https://eson.dev/post/new-job-at-haven/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://eson.dev/post/new-job-at-haven/</guid>
+      <description>&lt;p&gt;I have officially joined 
+&lt;a href=&#34;https://www.havenstudios.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haven Studios&lt;/a&gt; in November 2021 as a senior online software engineer.&lt;/p&gt;
+&lt;p&gt;Haven was founded in March 2021 as an independent studio working on an unannounced new IP for PlayStation. You can read about 
+&lt;a href=&#34;https://blog.playstation.com/2021/03/16/introducing-haven-a-new-montreal-based-independent-studio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the announcement on PlayStation Blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For obvious reasons, I will not be able to share what I&amp;rsquo;m currently working on here. 🤐 Stay tuned for official announcements.&lt;/p&gt;
+&lt;p&gt;To know more about the studio, you can watch the Fireside Chat our CEO Jade Raymond had with GamesIndustry.biz in October 2021:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7v2DdXySBzM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eson.dev/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/post/principal-online-programmer-at-invoke/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/tags/personal/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/post/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/tags/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/post/new-job-at-haven/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/project/fairgames/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/tags/game/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/project/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/tags/covid-19/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/post/wfh-setup-with-virtual-camera/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/tags/tech/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/tags/work_from_home/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/post/work-from-home-setup/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/post/confoo-montreal-2020/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/tags/event/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/post/why-i-built-this-site/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/project/rainbow-six-siege/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/project/for-honor/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/tags/demo/</loc>
+    <lastmod>2014-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eson.dev/project/ghost-recon-phantoms/</loc>
+    <lastmod>2014-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eson.dev/authors/admin/</loc>
   </url>
   
@@ -15,27 +120,7 @@
   </url>
   
   <url>
-    <loc>https://eson.dev/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eson.dev/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://eson.dev/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eson.dev/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eson.dev/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eson.dev/tags/</loc>
   </url>
   
 </urlset>

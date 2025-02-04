@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID-19 | Eson See</title>
+    <link>https://eson.dev/tags/covid-19/</link>
+      <atom:link href="https://eson.dev/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID-19</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 - 2025 Eson See</copyright><lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eson.dev/img/screenshot-alpha.png</url>
+      <title>COVID-19</title>
+      <link>https://eson.dev/tags/covid-19/</link>
+    </image>
+    
+    <item>
+      <title>Improving WFH Setup with OBS Virtual Camera</title>
+      <link>https://eson.dev/post/wfh-setup-with-virtual-camera/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://eson.dev/post/wfh-setup-with-virtual-camera/</guid>
+      <description>&lt;p&gt;Working from home has become the &lt;em&gt;new normal&lt;/em&gt; as the global COVID-19 pandemic situation continues. Apart from work, we are also using video calls more and more to stay in touch with friends and family.&lt;/p&gt;
+&lt;p&gt;Joining work meetings with webcam on is becoming normal and it certainly helps with communication - facial expression, body language, nodding and other visual cues are helpful apart from voice. It is also pleasing to see the faces of co-workers whom we haven&amp;rsquo;t met in person for a long time.&lt;/p&gt;
+&lt;p&gt;However, not everyone has a nice background and we also want to protect the privacy of our family members at home. Most video call applications (such as Microsoft Teams or Zoom) provide virtual backgrounds, or the ability to blur your background. Depending on your webcam and the actual environment, the effect might or might not be satisfactory.&lt;/p&gt;
+&lt;p&gt;I decided to buy a 
+&lt;a href=&#34;https://www.amazon.ca/gp/product/B086VYJ188/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collapsible Chromakey background&lt;/a&gt; (green screen) so that I can &lt;em&gt;play&lt;/em&gt; with OBS Virtual Camera and still be able to store the green screen to save space.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;green-screen.jpg&#34; alt=&#34;Collapsible green screen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To improve video quality, I&amp;rsquo;ve also upgraded to a 
+&lt;a href=&#34;https://www.logitech.com/en-ca/products/webcams/brio-4k-hdr-webcam.960-001105.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Logitech Brio&lt;/a&gt;, and I&amp;rsquo;m very happy with the image quality. (It also comes with an attachable privacy shutter)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;logitech-brio.jpg&#34; alt=&#34;Logitech Brio&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Furthermore, this is also one of the few webcams which support Windows Hello Face sign in. See how it works:&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9YjiZjWttWQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+To make use of the green screen, I use OBS Virtual Camera like most people. You can find a lot of tutorials online with details. I&amp;rsquo;ll do a quick run-down here with my personal setup.&lt;/p&gt;
+&lt;p&gt;First of all, with the webcam already added as a &amp;ldquo;Video Capture Device&amp;rdquo; in OBS, simply add a &amp;ldquo;Chroma Key&amp;rdquo; filter to the camera. The green screen is visible when the filter is hidden.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-obs-filter&#34; href=&#34;https://eson.dev/post/wfh-setup-with-virtual-camera/obs-filter/1-visible.png&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/wfh-setup-with-virtual-camera/obs-filter/1-visible_hub3cb667c04f50dc53ca89ae1573c87a9_185418_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;217&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-obs-filter&#34; href=&#34;https://eson.dev/post/wfh-setup-with-virtual-camera/obs-filter/2-hidden.png&#34; &gt;
+  &lt;img data-src=&#34;https://eson.dev/post/wfh-setup-with-virtual-camera/obs-filter/2-hidden_hu89d2cd23383c0028e68900bc30f7cccd_303575_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;217&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;!-- raw HTML omitted --&gt;
+Next, add an image or media source (video) to the scene in OBS and they will be displayed within the chromakey area.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;obs-scene.jpg&#34; alt=&#34;OBS Scene with Image and Media&#34;&gt;&lt;/p&gt;
+&lt;p&gt;How it looks with a static image (of Singapore 🇸🇬):
+&lt;img src=&#34;featured.png&#34; alt=&#34;OBS Screenshot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For some extra fun, download a loopable short video online and let it play in loop:&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZGKM1rALlVg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+With everything setup, simply click Start Virtual Camera under the Controls.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;start-virtual-camera.jpg&#34; alt=&#34;Start Virtual Camera&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Back in the video call application (Teams in this example), select &amp;ldquo;OBS Virutal Camera&amp;rdquo; instead of Logitech Brio:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;select-camera.jpg&#34; alt=&#34;Select OBS Virtual Camera&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Work From Home Setup</title>
+      <link>https://eson.dev/post/work-from-home-setup/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://eson.dev/post/work-from-home-setup/</guid>
+      <description>&lt;p&gt;Like many others, I have been working from home since March 18&lt;!-- raw HTML omitted --&gt;th&lt;!-- raw HTML omitted --&gt; due to the COVID-19 pandemic. Fortunately, as a software developer, all my work can be done on a computer, remoting into the workstation in office. In the past, I had also worked from home occassionally so my VPN is already setup way ahead.&lt;/p&gt;
+&lt;p&gt;I thank my past self for building a good desktop PC (mostly for gaming though 😆) which make the transition to fully &lt;em&gt;WFH&lt;/em&gt; a lot more comfortable.&lt;/p&gt;
+&lt;p&gt;Most of my &amp;ldquo;gears&amp;rdquo; were shipped from Singapore when I moved to Montreal in 2017. I self-built this PC back in 2011, it&amp;rsquo;s almost 10 years old. Over the years, I have upgraded/replaced many components except the CPU and motherboard.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Intel Core i5-2400 CPU (Sandy Bridge)&lt;/li&gt;
+&lt;li&gt;24 GB DDR3 RAM&lt;/li&gt;
+&lt;li&gt;Zotac GeForce RTX 2060 6GB GDDR6 Graphic Card&lt;/li&gt;
+&lt;li&gt;Total 700 GB SSD&lt;/li&gt;
+&lt;li&gt;Total 7 TB HDD&lt;/li&gt;
+&lt;li&gt;EVGA 650W fully modular PSU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For the displays, I have two Dell monitors with a 
+&lt;a href=&#34;https://amzn.to/3fK02Hs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24&amp;rdquo; U2417H&lt;/a&gt; pairing with an older 23&amp;rdquo; U2311H. Both are the &lt;em&gt;UltraSharp&lt;/em&gt; series from Dell, using In-plane Switching (IPS) panels which make the color looks really great. I also prefer this type of stands which allow height adjustment.
+
+&lt;a href=&#34;https://amzn.to/3fK02Hs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;dell-u2417h.jpg&#34; alt=&#34;Dell 24&amp;rdquo; U2417H Monitor&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;💡 Tip: Workspace ergonomics suggests that the main monitor should be placed at the center with about an arm&amp;rsquo;s length away from the body, instead of a &lt;code&gt;/\&lt;/code&gt; shape.&lt;/p&gt;
+&lt;p&gt;💡 Tip: You can use both screens for Remote Desktop by checking the &amp;ldquo;Use all my monitors for the remote session&amp;rdquo; box.
+&lt;img src=&#34;rdp-all-monitors.png&#34; alt=&#34;Remote Desktop Use all monitors&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To maximize space, I bought two 
+&lt;a href=&#34;https://amzn.to/2V3zOYR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fitueyes Monitor Risers&lt;/a&gt; which not only allow me to set the monitors on eye level, but also to slot in the keyboard and mouse under it whenever I need more space.&lt;/p&gt;
+&lt;p&gt;For typing, I am using the 
+&lt;a href=&#34;https://cougargaming.com/products/discontinue_keyboards/600k/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cougar 600K Mechanical Gaming Keyboard&lt;/a&gt;. Its simple design takes away the unnecessary gaming function keys and gets the job done. It is using Cherry MX Blue mechanical switches so there is the unavoidable clicking sound during typing. (My Logitech G710+ keyboard with less noisy MX Brown switches is still stuck in the office, unfortunately 😓)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cougar-600k.jpg&#34; alt=&#34;Cougar 600K Mechanical Gaming Keyboard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The mouse and headphones are two new additions to my setup, bought during this WFH period, to replace their predecessors which were not as comfortable.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://amzn.to/2V6OTZt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Logitech G203&lt;/a&gt; has a simple design and works comfortably for my hand size. The side buttons are always a &lt;em&gt;must&lt;/em&gt; to me because they allow me to easily navigate back and forward (in browser, explorer, IDE etc.). It also has a light that changes color (configurable).
+
+&lt;a href=&#34;https://amzn.to/2V6OTZt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;logitech-g203.jpg&#34; alt=&#34;Logitech G203 Gaming Mouse&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://amzn.to/3dkYv9n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vankyo CM7000 Gaming Headset&lt;/a&gt; has a noise-canceling microphone that is 360° adjustable. It allows me to speak much clearly during calls. As a plus point, it can also be plugged into a PS4 controller.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://amzn.to/3dkYv9n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;vankyo-cm7000.jpg&#34; alt=&#34;Vankyo CM7000 Gaming Headset&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t usually turn on video during work calls but I do have an 
+&lt;a href=&#34;https://amzn.to/2YUbr0P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ausdom Full HD Webcam&lt;/a&gt; sitting on top of the Dell U2311H monitor, ready to serve when needed. It also has a built-in microphone.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://amzn.to/2YUbr0P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;ausdom-webcam.jpg&#34; alt=&#34;Ausdom Webcam&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Last but not least, a very comfortable chair - the 
+&lt;a href=&#34;https://secretlabchairs.ca/collections/omega-series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secretlab Omega Series&lt;/a&gt;. Mine is the 2016 series bought in Singapore. It is made by a company founded in Singapore, and now they have expanded to Europe and North America.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://secretlabchairs.ca/collections/omega-series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;secretlab-omega.jpg&#34; alt=&#34;Secretlab Omega Series&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t need my all-in-one Canon MX727 (seen in picture above) for work, but it is always useful when I need to scan and print documents.&lt;/p&gt;
+&lt;p&gt;WFH is going be the &amp;ldquo;new normal&amp;rdquo; for developers like us, and I am ready.&lt;/p&gt;
+&lt;p&gt;Now I just need a hair cut. 💇‍♂&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
