@@ -1,186 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Event | </title>
-    <link>http://localhost:1313/tags/event/</link>
-      <atom:link href="http://localhost:1313/tags/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Event</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_7b5e4a5bf69ec52a.png</url>
-      <title>Event</title>
-      <link>http://localhost:1313/tags/event/</link>
-    </image>
-    
-    <item>
-      <title>ConFoo Montreal 2020</title>
-      <link>http://localhost:1313/blog/confoo-2020/</link>
-      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/confoo-2020/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve had the opportunity to attend 
- at Hotel Bonaventure Montréal this week.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;
-          &lt;img alt=&#34;View from Hotel Bonaventure Montreal&#34; 
-               srcset=&#34;http://localhost:1313/blog/confoo-2020/hotel_hu_10cb76c8322306c2.webp 320w, http://localhost:1313/blog/confoo-2020/hotel_hu_620099fe635dbc21.webp 480w, http://localhost:1313/blog/confoo-2020/hotel_hu_a4d25991450a458a.webp 760w&#34;
-               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/confoo-2020/hotel_hu_10cb76c8322306c2.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Event |</title><link>https://example.com/tags/event/</link><atom:link href="https://example.com/tags/event/index.xml" rel="self" type="application/rss+xml"/><description>Event</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7b5e4a5bf69ec52a.png</url><title>Event</title><link>https://example.com/tags/event/</link></image><item><title>ConFoo Montreal 2020</title><link>https://example.com/blog/confoo-2020/</link><pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate><guid>https://example.com/blog/confoo-2020/</guid><description>&lt;p&gt;I&amp;rsquo;ve had the opportunity to attend
+at Hotel Bonaventure Montréal this week.
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="View from Hotel Bonaventure Montreal"
+srcset="https://example.com/blog/confoo-2020/hotel_hu_10cb76c8322306c2.webp 320w, https://example.com/blog/confoo-2020/hotel_hu_620099fe635dbc21.webp 480w, https://example.com/blog/confoo-2020/hotel_hu_a4d25991450a458a.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/hotel_hu_10cb76c8322306c2.webp"
+width="760"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;what-is-confoo&#34;&gt;What is ConFoo?&lt;/h3&gt;
+&lt;h3 id="what-is-confoo"&gt;What is ConFoo?&lt;/h3&gt;
 &lt;p&gt;
- is a nonprofit organization founded by 
+is a nonprofit organization founded by
 . In 18 years, the event has evolved from a PHP conference to include all web technologies and related topics.&lt;/p&gt;
-&lt;p&gt;All the topics this year are listed 
- and the presentation slides were uploaded by the organizer at this Github repository: 
- &amp;#x1f60d;&lt;/p&gt;
-&lt;h3 id=&#34;the-presentations&#34;&gt;The Presentations&lt;/h3&gt;
+&lt;p&gt;All the topics this year are listed
+and the presentation slides were uploaded by the organizer at this Github repository:
+&amp;#x1f60d;&lt;/p&gt;
+&lt;h3 id="the-presentations"&gt;The Presentations&lt;/h3&gt;
 &lt;p&gt;The presentation on Go and Kubernetes were most related to my current job, and they were super popular with the rooms fully packed. Sadly there was only one single session on Go.&lt;/p&gt;
 &lt;p&gt;It was also nice to see some cool things in Python 3 since I&amp;rsquo;ve been coding using Python 2.7 for the past 3 years. Even though the chance of me switching to Python 3 at work remains low.&lt;/p&gt;
-&lt;p&gt;For historical reason, the conference is mostly on web technologies with a lot of them on PHP (which I didn&amp;rsquo;t attend any). Besides those, there were many talks on various JavaScript topics. It&amp;rsquo;s interesting to know that we now have browser API to get battery status and connect to Bluetooth devices; you can also build an indie platformer game (like 
+&lt;p&gt;For historical reason, the conference is mostly on web technologies with a lot of them on PHP (which I didn&amp;rsquo;t attend any). Besides those, there were many talks on various JavaScript topics. It&amp;rsquo;s interesting to know that we now have browser API to get battery status and connect to Bluetooth devices; you can also build an indie platformer game (like
 ) running at 60fps and publish on Steam.&lt;/p&gt;
 &lt;p&gt;
- from Google looks promising and I am eager to try it out. It looks like an attempt from Google to promote 
+from Google looks promising and I am eager to try it out. It looks like an attempt from Google to promote
 .&lt;/p&gt;
-&lt;h3 id=&#34;the-swag-stuff-we-all-get&#34;&gt;The Swag (Stuff We All Get)&lt;/h3&gt;
+&lt;h3 id="the-swag-stuff-we-all-get"&gt;The Swag (Stuff We All Get)&lt;/h3&gt;
 &lt;p&gt;Every participant get a goodie bag with some stickers and magnets in it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;
-          &lt;img alt=&#34;SWAGs from ConFoo 2020&#34; 
-               srcset=&#34;http://localhost:1313/blog/confoo-2020/swag_hu_318530e72479cd2c.webp 320w, http://localhost:1313/blog/confoo-2020/swag_hu_15ae9483f2689997.webp 480w, http://localhost:1313/blog/confoo-2020/swag_hu_9d163d0593f12030.webp 760w&#34;
-               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/confoo-2020/swag_hu_318530e72479cd2c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="SWAGs from ConFoo 2020"
+srcset="https://example.com/blog/confoo-2020/swag_hu_318530e72479cd2c.webp 320w, https://example.com/blog/confoo-2020/swag_hu_15ae9483f2689997.webp 480w, https://example.com/blog/confoo-2020/swag_hu_9d163d0593f12030.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/swag_hu_318530e72479cd2c.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Of course, food, drinks and lots of coffee &amp;#x2615; to keep us awake&lt;/p&gt;
 &lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;
-          &lt;img alt=&#34;One of the main course&#34; 
-               srcset=&#34;http://localhost:1313/blog/confoo-2020/food_hu_2007ae9c5fca6023.webp 320w, http://localhost:1313/blog/confoo-2020/food_hu_ab54f7047628c6e1.webp 480w, http://localhost:1313/blog/confoo-2020/food_hu_c9def0477e32faeb.webp 760w&#34;
-               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/confoo-2020/food_hu_2007ae9c5fca6023.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="One of the main course"
+srcset="https://example.com/blog/confoo-2020/food_hu_2007ae9c5fca6023.webp 320w, https://example.com/blog/confoo-2020/food_hu_ab54f7047628c6e1.webp 480w, https://example.com/blog/confoo-2020/food_hu_c9def0477e32faeb.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/food_hu_2007ae9c5fca6023.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&amp;hellip; plus community cocktail &amp;#x1f37b; with retro games &amp;#x1f3ae; after a long day.&lt;/p&gt;
 &lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;
-          &lt;img alt=&#34;Party&#34; 
-               srcset=&#34;http://localhost:1313/blog/confoo-2020/party_hu_554e01b85858f9c.webp 320w, http://localhost:1313/blog/confoo-2020/party_hu_ae7a300915dc42d6.webp 480w, http://localhost:1313/blog/confoo-2020/party_hu_58c6b13761b5b2d1.webp 760w&#34;
-               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/confoo-2020/party_hu_554e01b85858f9c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Party"
+srcset="https://example.com/blog/confoo-2020/party_hu_554e01b85858f9c.webp 320w, https://example.com/blog/confoo-2020/party_hu_ae7a300915dc42d6.webp 480w, https://example.com/blog/confoo-2020/party_hu_58c6b13761b5b2d1.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/party_hu_554e01b85858f9c.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Thank you Confoo, the event sponsors, and my employer for sending me to attend. Until next time!&lt;/p&gt;
 &lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;
-          &lt;img alt=&#34;ConFoo Montreal 2020 Event Sponsors&#34; 
-               srcset=&#34;http://localhost:1313/blog/confoo-2020/sponsors_hu_648388b4a0654d0c.webp 320w, http://localhost:1313/blog/confoo-2020/sponsors_hu_6bf5911bd3e98bab.webp 480w, http://localhost:1313/blog/confoo-2020/sponsors_hu_45dd66cfac773d7b.webp 760w&#34;
-               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/confoo-2020/sponsors_hu_648388b4a0654d0c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="ConFoo Montreal 2020 Event Sponsors"
+srcset="https://example.com/blog/confoo-2020/sponsors_hu_648388b4a0654d0c.webp 320w, https://example.com/blog/confoo-2020/sponsors_hu_6bf5911bd3e98bab.webp 480w, https://example.com/blog/confoo-2020/sponsors_hu_45dd66cfac773d7b.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/sponsors_hu_648388b4a0654d0c.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description></item></channel></rss>

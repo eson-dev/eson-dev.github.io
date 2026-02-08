@@ -1,58 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Upcoming | </title>
-    <link>http://localhost:1313/tags/upcoming/</link>
-      <atom:link href="http://localhost:1313/tags/upcoming/index.xml" rel="self" type="application/rss+xml" />
-    <description>Upcoming</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_7b5e4a5bf69ec52a.png</url>
-      <title>Upcoming</title>
-      <link>http://localhost:1313/tags/upcoming/</link>
-    </image>
-    
-    <item>
-      <title>WARLOCK</title>
-      <link>http://localhost:1313/projects/warlock/</link>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/warlock/</guid>
-      <description>&lt;p&gt;My current project at Invoke Studios has finally been revealed during The Game Awards 2025:&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fVrHLZyoKxQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
-
-  
-  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;In WARLOCK, you take on the role of Kaatri, a veteran warrior, in a new third-person action-adventure set in a dark fantasy open world inspired by Dungeons &amp;amp; Dragons. Make a pact to wield forbidden magic to overcome a wide range of challenges. In exploration, every spell is a key that unlocks mysteries in a beautiful yet unsettling world. When facing enemies, magic and melee combine for a combat experience that is both tactical and visceral.&lt;/p&gt;
-
-  &lt;/blockquote&gt;
-
-&lt;p&gt;Follow us on social media &lt;code&gt;@warlockthegame&lt;/code&gt; to receive updates!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fairgame$</title>
-      <link>http://localhost:1313/projects/fairgames/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/fairgames/</guid>
-      <description>&lt;p&gt;Fairgame$ is a competitive multiplayer heist game coming to PS5 and PC.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Upcoming |</title><link>https://example.com/tags/upcoming/</link><atom:link href="https://example.com/tags/upcoming/index.xml" rel="self" type="application/rss+xml"/><description>Upcoming</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7b5e4a5bf69ec52a.png</url><title>Upcoming</title><link>https://example.com/tags/upcoming/</link></image><item><title>WARLOCK</title><link>https://example.com/projects/warlock/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/projects/warlock/</guid><description>&lt;p&gt;My current project at Invoke Studios has finally been revealed during The Game Awards 2025:&lt;/p&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/fVrHLZyoKxQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;In WARLOCK, you take on the role of Kaatri, a veteran warrior, in a new third-person action-adventure set in a dark fantasy open world inspired by Dungeons &amp;amp; Dragons. Make a pact to wield forbidden magic to overcome a wide range of challenges. In exploration, every spell is a key that unlocks mysteries in a beautiful yet unsettling world. When facing enemies, magic and melee combine for a combat experience that is both tactical and visceral.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Follow us on social media &lt;code&gt;@warlockthegame&lt;/code&gt; to receive updates!&lt;/p&gt;</description></item><item><title>Fairgame$</title><link>https://example.com/projects/fairgames/</link><pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate><guid>https://example.com/projects/fairgames/</guid><description>&lt;p&gt;Fairgame$ is a competitive multiplayer heist game coming to PS5 and PC.
 The game was revealed during State of Play on May 24th, 2023.
 Here is the CGI trailer:&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/l1Jp4K02L1I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;Read the reveal 
-
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/l1Jp4K02L1I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Read the reveal
 to find out more.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Note: I worked on this game during my time with Haven Interactive studios (2021-2024).&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;&lt;em&gt;Note: I worked on this game during my time with Haven Interactive studios (2021-2024).&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
