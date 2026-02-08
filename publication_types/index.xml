@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publication_types | Eson See</title>
-    <link>https://eson.dev/publication_types/</link>
-      <atom:link href="https://eson.dev/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 - 2025 Eson See</copyright>
-    <image>
-      <url>https://eson.dev/img/screenshot-alpha.png</url>
-      <title>Publication_types</title>
-      <link>https://eson.dev/publication_types/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publication_types |</title><link>https://example.com/publication_types/</link><atom:link href="https://example.com/publication_types/index.xml" rel="self" type="application/rss+xml"/><description>Publication_types</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><image><url>https://example.com/media/icon_hu_7b5e4a5bf69ec52a.png</url><title>Publication_types</title><link>https://example.com/publication_types/</link></image></channel></rss>

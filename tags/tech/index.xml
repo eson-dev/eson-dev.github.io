@@ -1,105 +1,118 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tech | Eson See</title>
-    <link>https://eson.dev/tags/tech/</link>
-      <atom:link href="https://eson.dev/tags/tech/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tech</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 - 2025 Eson See</copyright><lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://eson.dev/img/screenshot-alpha.png</url>
-      <title>Tech</title>
-      <link>https://eson.dev/tags/tech/</link>
-    </image>
-    
-    <item>
-      <title>Improving WFH Setup with OBS Virtual Camera</title>
-      <link>https://eson.dev/post/wfh-setup-with-virtual-camera/</link>
-      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://eson.dev/post/wfh-setup-with-virtual-camera/</guid>
-      <description>&lt;p&gt;Working from home has become the &lt;em&gt;new normal&lt;/em&gt; as the global COVID-19 pandemic situation continues. Apart from work, we are also using video calls more and more to stay in touch with friends and family.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech |</title><link>https://example.com/tags/tech/</link><atom:link href="https://example.com/tags/tech/index.xml" rel="self" type="application/rss+xml"/><description>Tech</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7b5e4a5bf69ec52a.png</url><title>Tech</title><link>https://example.com/tags/tech/</link></image><item><title>Improving WFH Setup with OBS Virtual Camera</title><link>https://example.com/blog/obs-virtual-camera/</link><pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate><guid>https://example.com/blog/obs-virtual-camera/</guid><description>&lt;p&gt;Working from home has become the &lt;em&gt;new normal&lt;/em&gt; as the global COVID-19 pandemic situation continues. Apart from work, we are also using video calls more and more to stay in touch with friends and family.&lt;/p&gt;
 &lt;p&gt;Joining work meetings with webcam on is becoming normal and it certainly helps with communication - facial expression, body language, nodding and other visual cues are helpful apart from voice. It is also pleasing to see the faces of co-workers whom we haven&amp;rsquo;t met in person for a long time.&lt;/p&gt;
 &lt;p&gt;However, not everyone has a nice background and we also want to protect the privacy of our family members at home. Most video call applications (such as Microsoft Teams or Zoom) provide virtual backgrounds, or the ability to blur your background. Depending on your webcam and the actual environment, the effect might or might not be satisfactory.&lt;/p&gt;
-&lt;p&gt;I decided to buy a 
-&lt;a href=&#34;https://www.amazon.ca/gp/product/B086VYJ188/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collapsible Chromakey background&lt;/a&gt; (green screen) so that I can &lt;em&gt;play&lt;/em&gt; with OBS Virtual Camera and still be able to store the green screen to save space.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;green-screen.jpg&#34; alt=&#34;Collapsible green screen&#34;&gt;&lt;/p&gt;
-&lt;p&gt;To improve video quality, I&amp;rsquo;ve also upgraded to a 
-&lt;a href=&#34;https://www.logitech.com/en-ca/products/webcams/brio-4k-hdr-webcam.960-001105.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Logitech Brio&lt;/a&gt;, and I&amp;rsquo;m very happy with the image quality. (It also comes with an attachable privacy shutter)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;logitech-brio.jpg&#34; alt=&#34;Logitech Brio&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Furthermore, this is also one of the few webcams which support Windows Hello Face sign in. See how it works:&lt;/p&gt;
+&lt;p&gt;I decided to buy a
+(green screen) so that I can &lt;em&gt;play&lt;/em&gt; with OBS Virtual Camera and still be able to store the green screen to save space.&lt;/p&gt;
 &lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/9YjiZjWttWQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Collapsible green screen"
+srcset="https://example.com/blog/obs-virtual-camera/green-screen_hu_22f25fa42cc2cb2c.webp 320w, https://example.com/blog/obs-virtual-camera/green-screen_hu_a49672d7b89165e2.webp 480w, https://example.com/blog/obs-virtual-camera/green-screen_hu_8c28fa144a246e15.webp 570w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/obs-virtual-camera/green-screen_hu_22f25fa42cc2cb2c.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;To improve video quality, I&amp;rsquo;ve also upgraded to a
+, and I&amp;rsquo;m very happy with the image quality. (It also comes with an attachable privacy shutter)&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Logitech Brio"
+srcset="https://example.com/blog/obs-virtual-camera/logitech-brio_hu_2fb69b43a239dc73.webp 320w, https://example.com/blog/obs-virtual-camera/logitech-brio_hu_5c9e7710516203fa.webp 480w, https://example.com/blog/obs-virtual-camera/logitech-brio_hu_b1bf7a189c4ff751.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/obs-virtual-camera/logitech-brio_hu_2fb69b43a239dc73.webp"
+width="760"
+height="613"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Furthermore, this is also one of the few webcams which support Windows Hello Face sign in. See how it works:&lt;/p&gt;
+&lt;p&gt;&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/9YjiZjWttWQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;!-- raw HTML omitted --&gt;
+&lt;br/&gt;
 To make use of the green screen, I use OBS Virtual Camera like most people. You can find a lot of tutorials online with details. I&amp;rsquo;ll do a quick run-down here with my personal setup.&lt;/p&gt;
 &lt;p&gt;First of all, with the webcam already added as a &amp;ldquo;Video Capture Device&amp;rdquo; in OBS, simply add a &amp;ldquo;Chroma Key&amp;rdquo; filter to the camera. The green screen is visible when the filter is hidden.&lt;/p&gt;
 &lt;p&gt;
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-obs-filter&#34; href=&#34;https://eson.dev/post/wfh-setup-with-virtual-camera/obs-filter/1-visible.png&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/wfh-setup-with-virtual-camera/obs-filter/1-visible_hub3cb667c04f50dc53ca89ae1573c87a9_185418_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;217&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-obs-filter&#34; href=&#34;https://eson.dev/post/wfh-setup-with-virtual-camera/obs-filter/2-hidden.png&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/wfh-setup-with-virtual-camera/obs-filter/2-hidden_hu89d2cd23383c0028e68900bc30f7cccd_303575_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;217&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-&lt;!-- raw HTML omitted --&gt;
-Next, add an image or media source (video) to the scene in OBS and they will be displayed within the chromakey area.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;obs-scene.jpg&#34; alt=&#34;OBS Scene with Image and Media&#34;&gt;&lt;/p&gt;
-&lt;p&gt;How it looks with a static image (of Singapore 🇸🇬):
-&lt;img src=&#34;featured.png&#34; alt=&#34;OBS Screenshot&#34;&gt;&lt;/p&gt;
-&lt;p&gt;For some extra fun, download a loopable short video online and let it play in loop:&lt;/p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Green screen visible when OBS filter is hidden"
+srcset="https://example.com/blog/obs-virtual-camera/filter-hidden_hu_bc7ebd0e9b0a16a7.webp 320w, https://example.com/blog/obs-virtual-camera/filter-hidden_hu_da525c27a20e64bb.webp 480w, https://example.com/blog/obs-virtual-camera/filter-hidden_hu_58b8be21252d46bc.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/obs-virtual-camera/filter-hidden_hu_bc7ebd0e9b0a16a7.webp"
+width="760"
+height="667"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;br/&gt;
+Next, add an image or media source (video) to the scene in OBS and they will be displayed within the chromakey area.
 &lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZGKM1rALlVg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="OBS Scene with Image and Media"
+srcset="https://example.com/blog/obs-virtual-camera/obs-scene_hu_a5c00748d5b1287e.webp 320w, https://example.com/blog/obs-virtual-camera/obs-scene_hu_8eea72bf3150ae4f.webp 480w, https://example.com/blog/obs-virtual-camera/obs-scene_hu_72d059f4165acec0.webp 675w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/obs-virtual-camera/obs-scene_hu_a5c00748d5b1287e.webp"
+width="675"
+height="169"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;How it looks with a static image (of Singapore &amp;#x1f1f8;&amp;#x1f1ec;):
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="OBS Screenshot"
+srcset="https://example.com/blog/obs-virtual-camera/featured_hu_aef350548f1a93b0.webp 320w, https://example.com/blog/obs-virtual-camera/featured_hu_21cd50580f6134e0.webp 480w, https://example.com/blog/obs-virtual-camera/featured_hu_89df7c9fad2ce1ed.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/obs-virtual-camera/featured_hu_aef350548f1a93b0.webp"
+width="760"
+height="412"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;For some extra fun, download a loopable short video online and let it play in loop:&lt;/p&gt;
+&lt;p&gt;&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ZGKM1rALlVg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;!-- raw HTML omitted --&gt;
+&lt;br/&gt;
 With everything setup, simply click Start Virtual Camera under the Controls.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;start-virtual-camera.jpg&#34; alt=&#34;Start Virtual Camera&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Start Virtual Camera"
+srcset="https://example.com/blog/obs-virtual-camera/start-virtual-camera_hu_6243db15c8c46c82.webp 283w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/obs-virtual-camera/start-virtual-camera_hu_6243db15c8c46c82.webp"
+width="283"
+height="171"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Back in the video call application (Teams in this example), select &amp;ldquo;OBS Virutal Camera&amp;rdquo; instead of Logitech Brio:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;select-camera.jpg&#34; alt=&#34;Select OBS Virtual Camera&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My Work From Home Setup</title>
-      <link>https://eson.dev/post/work-from-home-setup/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://eson.dev/post/work-from-home-setup/</guid>
-      <description>&lt;p&gt;Like many others, I have been working from home since March 18&lt;!-- raw HTML omitted --&gt;th&lt;!-- raw HTML omitted --&gt; due to the COVID-19 pandemic. Fortunately, as a software developer, all my work can be done on a computer, remoting into the workstation in office. In the past, I had also worked from home occassionally so my VPN is already setup way ahead.&lt;/p&gt;
-&lt;p&gt;I thank my past self for building a good desktop PC (mostly for gaming though 😆) which make the transition to fully &lt;em&gt;WFH&lt;/em&gt; a lot more comfortable.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Select OBS Virtual Camera"
+srcset="https://example.com/blog/obs-virtual-camera/select-camera_hu_f5e3bb64fca163ee.webp 320w, https://example.com/blog/obs-virtual-camera/select-camera_hu_17a67ec6648ef68e.webp 415w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/obs-virtual-camera/select-camera_hu_f5e3bb64fca163ee.webp"
+width="415"
+height="179"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description></item><item><title>My Work From Home Setup</title><link>https://example.com/blog/wfh-setup/</link><pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate><guid>https://example.com/blog/wfh-setup/</guid><description>&lt;p&gt;Like many others, I have been working from home since March 18&lt;sup&gt;th&lt;/sup&gt; due to the COVID-19 pandemic. Fortunately, as a software developer, all my work can be done on a computer, remoting into the workstation in office. In the past, I had also worked from home occassionally so my VPN is already setup way ahead.&lt;/p&gt;
+&lt;p&gt;I thank my past self for building a good desktop PC (mostly for gaming though &amp;#x1f606;) which make the transition to fully &lt;em&gt;WFH&lt;/em&gt; a lot more comfortable.&lt;/p&gt;
 &lt;p&gt;Most of my &amp;ldquo;gears&amp;rdquo; were shipped from Singapore when I moved to Montreal in 2017. I self-built this PC back in 2011, it&amp;rsquo;s almost 10 years old. Over the years, I have upgraded/replaced many components except the CPU and motherboard.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Intel Core i5-2400 CPU (Sandy Bridge)&lt;/li&gt;
@@ -109,237 +122,176 @@ With everything setup, simply click Start Virtual Camera under the Controls.&lt;
 &lt;li&gt;Total 7 TB HDD&lt;/li&gt;
 &lt;li&gt;EVGA 650W fully modular PSU&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;For the displays, I have two Dell monitors with a 
-&lt;a href=&#34;https://amzn.to/3fK02Hs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24&amp;rdquo; U2417H&lt;/a&gt; pairing with an older 23&amp;rdquo; U2311H. Both are the &lt;em&gt;UltraSharp&lt;/em&gt; series from Dell, using In-plane Switching (IPS) panels which make the color looks really great. I also prefer this type of stands which allow height adjustment.
-
-&lt;a href=&#34;https://amzn.to/3fK02Hs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;dell-u2417h.jpg&#34; alt=&#34;Dell 24&amp;rdquo; U2417H Monitor&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;💡 Tip: Workspace ergonomics suggests that the main monitor should be placed at the center with about an arm&amp;rsquo;s length away from the body, instead of a &lt;code&gt;/\&lt;/code&gt; shape.&lt;/p&gt;
-&lt;p&gt;💡 Tip: You can use both screens for Remote Desktop by checking the &amp;ldquo;Use all my monitors for the remote session&amp;rdquo; box.
-&lt;img src=&#34;rdp-all-monitors.png&#34; alt=&#34;Remote Desktop Use all monitors&#34;&gt;&lt;/p&gt;
-&lt;p&gt;To maximize space, I bought two 
-&lt;a href=&#34;https://amzn.to/2V3zOYR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fitueyes Monitor Risers&lt;/a&gt; which not only allow me to set the monitors on eye level, but also to slot in the keyboard and mouse under it whenever I need more space.&lt;/p&gt;
-&lt;p&gt;For typing, I am using the 
-&lt;a href=&#34;https://cougargaming.com/products/discontinue_keyboards/600k/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cougar 600K Mechanical Gaming Keyboard&lt;/a&gt;. Its simple design takes away the unnecessary gaming function keys and gets the job done. It is using Cherry MX Blue mechanical switches so there is the unavoidable clicking sound during typing. (My Logitech G710+ keyboard with less noisy MX Brown switches is still stuck in the office, unfortunately 😓)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;cougar-600k.jpg&#34; alt=&#34;Cougar 600K Mechanical Gaming Keyboard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For the displays, I have two Dell monitors with a
+pairing with an older 23&amp;quot; U2311H. Both are the &lt;em&gt;UltraSharp&lt;/em&gt; series from Dell, using In-plane Switching (IPS) panels which make the color looks really great. I also prefer this type of stands which allow height adjustment.
+&lt;/p&gt;
+&lt;p&gt;&amp;#x1f4a1; Tip: Workspace ergonomics suggests that the main monitor should be placed at the center with about an arm&amp;rsquo;s length away from the body, instead of a &lt;code&gt;/\&lt;/code&gt; shape.&lt;/p&gt;
+&lt;p&gt;&amp;#x1f4a1; Tip: You can use both screens for Remote Desktop by checking the &amp;ldquo;Use all my monitors for the remote session&amp;rdquo; box.
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Remote Desktop Use all monitors"
+srcset="https://example.com/blog/wfh-setup/rdp-all-monitors_hu_ec6cc1542686824c.webp 320w, https://example.com/blog/wfh-setup/rdp-all-monitors_hu_dd40b2fcfd6b950c.webp 407w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/wfh-setup/rdp-all-monitors_hu_ec6cc1542686824c.webp"
+width="407"
+height="282"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;To maximize space, I bought two
+which not only allow me to set the monitors on eye level, but also to slot in the keyboard and mouse under it whenever I need more space.&lt;/p&gt;
+&lt;p&gt;For typing, I am using the
+. Its simple design takes away the unnecessary gaming function keys and gets the job done. It is using Cherry MX Blue mechanical switches so there is the unavoidable clicking sound during typing. (My Logitech G710+ keyboard with less noisy MX Brown switches is still stuck in the office, unfortunately &amp;#x1f613;)&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Cougar 600K Mechanical Gaming Keyboard"
+srcset="https://example.com/blog/wfh-setup/cougar-600k_hu_121ee2f2c2682d92.webp 320w, https://example.com/blog/wfh-setup/cougar-600k_hu_bf7ce9c0bb61d174.webp 480w, https://example.com/blog/wfh-setup/cougar-600k_hu_ae3f2f795bf932c9.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/wfh-setup/cougar-600k_hu_121ee2f2c2682d92.webp"
+width="760"
+height="485"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;The mouse and headphones are two new additions to my setup, bought during this WFH period, to replace their predecessors which were not as comfortable.&lt;/p&gt;
-&lt;p&gt;The 
-&lt;a href=&#34;https://amzn.to/2V6OTZt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Logitech G203&lt;/a&gt; has a simple design and works comfortably for my hand size. The side buttons are always a &lt;em&gt;must&lt;/em&gt; to me because they allow me to easily navigate back and forward (in browser, explorer, IDE etc.). It also has a light that changes color (configurable).
-
-&lt;a href=&#34;https://amzn.to/2V6OTZt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;logitech-g203.jpg&#34; alt=&#34;Logitech G203 Gaming Mouse&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The 
-&lt;a href=&#34;https://amzn.to/3dkYv9n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vankyo CM7000 Gaming Headset&lt;/a&gt; has a noise-canceling microphone that is 360° adjustable. It allows me to speak much clearly during calls. As a plus point, it can also be plugged into a PS4 controller.&lt;/p&gt;
+&lt;p&gt;The
+has a simple design and works comfortably for my hand size. The side buttons are always a &lt;em&gt;must&lt;/em&gt; to me because they allow me to easily navigate back and forward (in browser, explorer, IDE etc.). It also has a light that changes color (configurable).
+&lt;/p&gt;
+&lt;p&gt;The
+has a noise-canceling microphone that is 360° adjustable. It allows me to speak much clearly during calls. As a plus point, it can also be plugged into a PS4 controller.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://amzn.to/3dkYv9n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;vankyo-cm7000.jpg&#34; alt=&#34;Vankyo CM7000 Gaming Headset&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I don&amp;rsquo;t usually turn on video during work calls but I do have an 
-&lt;a href=&#34;https://amzn.to/2YUbr0P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ausdom Full HD Webcam&lt;/a&gt; sitting on top of the Dell U2311H monitor, ready to serve when needed. It also has a built-in microphone.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t usually turn on video during work calls but I do have an
+sitting on top of the Dell U2311H monitor, ready to serve when needed. It also has a built-in microphone.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://amzn.to/2YUbr0P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;ausdom-webcam.jpg&#34; alt=&#34;Ausdom Webcam&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Last but not least, a very comfortable chair - the 
-&lt;a href=&#34;https://secretlabchairs.ca/collections/omega-series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secretlab Omega Series&lt;/a&gt;. Mine is the 2016 series bought in Singapore. It is made by a company founded in Singapore, and now they have expanded to Europe and North America.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Last but not least, a very comfortable chair - the
+. Mine is the 2016 series bought in Singapore. It is made by a company founded in Singapore, and now they have expanded to Europe and North America.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://secretlabchairs.ca/collections/omega-series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;secretlab-omega.jpg&#34; alt=&#34;Secretlab Omega Series&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t need my all-in-one Canon MX727 (seen in picture above) for work, but it is always useful when I need to scan and print documents.&lt;/p&gt;
 &lt;p&gt;WFH is going be the &amp;ldquo;new normal&amp;rdquo; for developers like us, and I am ready.&lt;/p&gt;
-&lt;p&gt;Now I just need a hair cut. 💇‍♂&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ConFoo Montreal 2020</title>
-      <link>https://eson.dev/post/confoo-montreal-2020/</link>
-      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://eson.dev/post/confoo-montreal-2020/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve had the opportunity to attend 
-&lt;a href=&#34;https://confoo.ca/en/yul2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ConFoo Montreal 2020&lt;/a&gt; at Hotel Bonaventure Montréal this week.
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hotel&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/hotel/conference%20hall.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/hotel/conference%20hall_hue776a334b902d7828bf5c7a8aa11ccb3_700097_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-hotel&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/hotel/view.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/hotel/view_hue776a334b902d7828bf5c7a8aa11ccb3_871626_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;&lt;/p&gt;
-&lt;h3 id=&#34;what-is-confoo&#34;&gt;What is ConFoo?&lt;/h3&gt;
+&lt;p&gt;Now I just need a hair cut. &amp;#x1f487;&amp;zwj;&amp;#x2642;&amp;#xfe0f;&lt;/p&gt;</description></item><item><title>ConFoo Montreal 2020</title><link>https://example.com/blog/confoo-2020/</link><pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate><guid>https://example.com/blog/confoo-2020/</guid><description>&lt;p&gt;I&amp;rsquo;ve had the opportunity to attend
+at Hotel Bonaventure Montréal this week.
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="View from Hotel Bonaventure Montreal"
+srcset="https://example.com/blog/confoo-2020/hotel_hu_10cb76c8322306c2.webp 320w, https://example.com/blog/confoo-2020/hotel_hu_620099fe635dbc21.webp 480w, https://example.com/blog/confoo-2020/hotel_hu_a4d25991450a458a.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/hotel_hu_10cb76c8322306c2.webp"
+width="760"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id="what-is-confoo"&gt;What is ConFoo?&lt;/h3&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://confoo.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ConFoo&lt;/a&gt; is a nonprofit organization founded by 
-&lt;a href=&#34;https://twitter.com/ylarrivee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yann Larrivée&lt;/a&gt;. In 18 years, the event has evolved from a PHP conference to include all web technologies and related topics.&lt;/p&gt;
-&lt;p&gt;All the topics this year are listed 
-&lt;a href=&#34;https://confoo.ca/en/yul2020/schedule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and the presentation slides were uploaded by the organizer at this Github repository: 
-&lt;a href=&#34;https://github.com/confooca/yul2020-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/confooca/yul2020-slides&lt;/a&gt; 😍&lt;/p&gt;
-&lt;h3 id=&#34;the-presentations&#34;&gt;The Presentations&lt;/h3&gt;
+is a nonprofit organization founded by
+. In 18 years, the event has evolved from a PHP conference to include all web technologies and related topics.&lt;/p&gt;
+&lt;p&gt;All the topics this year are listed
+and the presentation slides were uploaded by the organizer at this Github repository:
+&amp;#x1f60d;&lt;/p&gt;
+&lt;h3 id="the-presentations"&gt;The Presentations&lt;/h3&gt;
 &lt;p&gt;The presentation on Go and Kubernetes were most related to my current job, and they were super popular with the rooms fully packed. Sadly there was only one single session on Go.&lt;/p&gt;
 &lt;p&gt;It was also nice to see some cool things in Python 3 since I&amp;rsquo;ve been coding using Python 2.7 for the past 3 years. Even though the chance of me switching to Python 3 at work remains low.&lt;/p&gt;
-&lt;p&gt;For historical reason, the conference is mostly on web technologies with a lot of them on PHP (which I didn&amp;rsquo;t attend any). Besides those, there were many talks on various JavaScript topics. It&amp;rsquo;s interesting to know that we now have browser API to get battery status and connect to Bluetooth devices; you can also build an indie platformer game (like 
-&lt;a href=&#34;http://www.celestegame.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Celeste&lt;/a&gt;) running at 60fps and publish on Steam.&lt;/p&gt;
+&lt;p&gt;For historical reason, the conference is mostly on web technologies with a lot of them on PHP (which I didn&amp;rsquo;t attend any). Besides those, there were many talks on various JavaScript topics. It&amp;rsquo;s interesting to know that we now have browser API to get battery status and connect to Bluetooth devices; you can also build an indie platformer game (like
+) running at 60fps and publish on Steam.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://flutter.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flutter&lt;/a&gt; from Google looks promising and I am eager to try it out. It looks like an attempt from Google to promote 
-&lt;a href=&#34;https://dart.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dart&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;the-swag-stuff-we-all-get&#34;&gt;The Swag (Stuff We All Get)&lt;/h3&gt;
+from Google looks promising and I am eager to try it out. It looks like an attempt from Google to promote
+.&lt;/p&gt;
+&lt;h3 id="the-swag-stuff-we-all-get"&gt;The Swag (Stuff We All Get)&lt;/h3&gt;
 &lt;p&gt;Every participant get a goodie bag with some stickers and magnets in it.
-&lt;img src=&#34;swag.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Of course, food, drinks and lots of coffee ☕ to keep us awake
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-food&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/food/1-2.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/food/1-2_hu7af45c05e7eaab656aeab8d5fe153c59_164196_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-food&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/food/2-2.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/food/2-2_hu7af45c05e7eaab656aeab8d5fe153c59_142495_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-food&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/food/3-2.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/food/3-2_hu7af45c05e7eaab656aeab8d5fe153c59_130475_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-food&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/food/4.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/food/4_hu7af45c05e7eaab656aeab8d5fe153c59_125167_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;&amp;hellip; plus community cocktail 🍻 with retro games 🎮 after a long day.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-party&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/party/party1.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/party/party1_hu7af45c05e7eaab656aeab8d5fe153c59_211879_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-party&#34; href=&#34;https://eson.dev/post/confoo-montreal-2020/party/party2.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://eson.dev/post/confoo-montreal-2020/party/party2_hu7af45c05e7eaab656aeab8d5fe153c59_107909_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="SWAGs from ConFoo 2020"
+srcset="https://example.com/blog/confoo-2020/swag_hu_318530e72479cd2c.webp 320w, https://example.com/blog/confoo-2020/swag_hu_15ae9483f2689997.webp 480w, https://example.com/blog/confoo-2020/swag_hu_9d163d0593f12030.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/swag_hu_318530e72479cd2c.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Of course, food, drinks and lots of coffee &amp;#x2615; to keep us awake&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="One of the main course"
+srcset="https://example.com/blog/confoo-2020/food_hu_2007ae9c5fca6023.webp 320w, https://example.com/blog/confoo-2020/food_hu_ab54f7047628c6e1.webp 480w, https://example.com/blog/confoo-2020/food_hu_c9def0477e32faeb.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/food_hu_2007ae9c5fca6023.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;hellip; plus community cocktail &amp;#x1f37b; with retro games &amp;#x1f3ae; after a long day.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Party"
+srcset="https://example.com/blog/confoo-2020/party_hu_554e01b85858f9c.webp 320w, https://example.com/blog/confoo-2020/party_hu_ae7a300915dc42d6.webp 480w, https://example.com/blog/confoo-2020/party_hu_58c6b13761b5b2d1.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/party_hu_554e01b85858f9c.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Thank you Confoo, the event sponsors, and my employer for sending me to attend. Until next time!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;sponsors.png&#34; alt=&#34;ConFoo Montreal 2020 Event Sponsors&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why and How I Built This Website</title>
-      <link>https://eson.dev/post/why-i-built-this-site/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://eson.dev/post/why-i-built-this-site/</guid>
-      <description>&lt;p&gt;Hello and welcome! You probably found this website from my 
-&lt;a href=&#34;https://www.linkedin.com/in/esonsee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; or other social media profiles.&lt;/p&gt;
-&lt;h3 id=&#34;why-esondev&#34;&gt;Why eson.dev?&lt;/h3&gt;
-&lt;p&gt;For years, I have always wanted to own a personal website. Back when I was living in Singapore, I even reserved the hostname &lt;code&gt;eson.sg&lt;/code&gt; for many years without hosting anything 😅. I was still building up my career and LinkedIn is the best place to display my skills and experience.&lt;/p&gt;
-&lt;p&gt;In 2019, I found that &lt;code&gt;.dev&lt;/code&gt; has become a top-level domain, as 
-&lt;a href=&#34;https://www.blog.google/technology/developers/hello-dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;announced by Google&lt;/a&gt;. A quick search showed that &lt;code&gt;eson.dev&lt;/code&gt; is still available and I purchased the domain in no time. I wanted to use it as an alternative to my LinkedIn profile and give it a more personal touch, to showcase my experience and game projects, and maybe write some articles to share some tips and tricks.&lt;/p&gt;
-&lt;h3 id=&#34;deciding-the-tech-to-use&#34;&gt;Deciding the tech to use&lt;/h3&gt;
-&lt;p&gt;After owning the domain name, it was time to decide on the technology to build the site on. A long time ago, I learnt website building with just HTML and JavaScript using 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_FrontPage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft FrontPage&lt;/a&gt; (it was also a period when 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Adobe_Flash&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flash&lt;/a&gt; was prominent) 😂. Of course, we are living in 2020 now and there are so many ways to create your own website without even writing a single line of HTML.&lt;/p&gt;
-&lt;p&gt;I tried out with the GitHub&amp;rsquo;s own 
-&lt;a href=&#34;https://github.com/github/personal-website&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personal-website&lt;/a&gt; project. It uses 
-&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jekyll&lt;/a&gt; as the site generator. For some reasons, I didn&amp;rsquo;t really like Jekyll. Soon after that I discovered 
-&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; as an alternative (it&amp;rsquo;s also written in Go and I use Go every day at work) and decided to give it a try, and it fits my needs. While searching for a theme on Hugo, I found 
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; and it looks fantastic!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;academic.png&#34; alt=&#34;Academic&#34;&gt;&lt;/p&gt;
-&lt;p&gt;By following Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;installation guide&lt;/a&gt;, I was able to setup 
-&lt;a href=&#34;https://www.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify&lt;/a&gt; to automatically build and deploy my changes, and the first version of my website was published in less than 10 minutes! The best of all is that I am able to use the Starter (free) tier of Netlify to host my website and tie it to my custom domain 
-&lt;a href=&#34;https://www.eson.dev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eson.dev&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;keeping-it-updated&#34;&gt;Keeping it updated&lt;/h3&gt;
-&lt;p&gt;Now that the Netlify pipeline has been setup, I simply have to push my changes to the Github repository, and everything will be &lt;em&gt;automagically&lt;/em&gt; built and deployed live by Netlify in less than a minute. Sweet! 🎉&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="ConFoo Montreal 2020 Event Sponsors"
+srcset="https://example.com/blog/confoo-2020/sponsors_hu_648388b4a0654d0c.webp 320w, https://example.com/blog/confoo-2020/sponsors_hu_6bf5911bd3e98bab.webp 480w, https://example.com/blog/confoo-2020/sponsors_hu_45dd66cfac773d7b.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/confoo-2020/sponsors_hu_648388b4a0654d0c.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description></item><item><title>Why and How I Built This Website</title><link>https://example.com/blog/this-site/</link><pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate><guid>https://example.com/blog/this-site/</guid><description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Update 2026-01-25&lt;/strong&gt;: This was originally written in February 2020.
+As of January 2026, Academic theme for Hugo is no longer available.
+This website has since been rebuilt with
+.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hello and welcome! You probably found this website from my
+or other social media profiles.&lt;/p&gt;
+&lt;h3 id="why-esondev"&gt;Why eson.dev?&lt;/h3&gt;
+&lt;p&gt;For years, I have always wanted to own a personal website. Back when I was living in Singapore, I even reserved the hostname &lt;code&gt;eson.sg&lt;/code&gt; for many years without hosting anything &amp;#x1f605;. I was still building up my career and LinkedIn is the best place to display my skills and experience.&lt;/p&gt;
+&lt;p&gt;In 2019, I found that &lt;code&gt;.dev&lt;/code&gt; has become a top-level domain, as
+. A quick search showed that &lt;code&gt;eson.dev&lt;/code&gt; is still available and I purchased the domain in no time. I wanted to use it as an alternative to my LinkedIn profile and give it a more personal touch, to showcase my experience and game projects, and maybe write some articles to share some tips and tricks.&lt;/p&gt;
+&lt;h3 id="deciding-the-tech-to-use"&gt;Deciding the tech to use&lt;/h3&gt;
+&lt;p&gt;After owning the domain name, it was time to decide on the technology to build the site on. A long time ago, I learnt website building with just HTML and JavaScript using
+(it was also a period when
+was prominent) &amp;#x1f602;. Of course, we are living in 2020 now and there are so many ways to create your own website without even writing a single line of HTML.&lt;/p&gt;
+&lt;p&gt;I tried out with the GitHub&amp;rsquo;s own
+project. It uses
+as the site generator. For some reasons, I didn&amp;rsquo;t really like Jekyll. Soon after that I discovered
+as an alternative (it&amp;rsquo;s also written in Go and I use Go every day at work) and decided to give it a try, and it fits my needs. While searching for a theme on Hugo, I found Academic (&lt;em&gt;link no longer available&lt;/em&gt; ❌) and it looks fantastic!&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;
+&lt;img alt="Academic"
+srcset="https://example.com/blog/this-site/academic_hu_4e1cefd790a0741b.webp 320w, https://example.com/blog/this-site/academic_hu_c48d453fb01e86ad.webp 480w, https://example.com/blog/this-site/academic_hu_2e8067b20b2e7af.webp 760w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://example.com/blog/this-site/academic_hu_4e1cefd790a0741b.webp"
+width="760"
+height="241"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;By following Academic&amp;rsquo;s installation guide, I was able to setup
+to automatically build and deploy my changes, and the first version of my website was published in less than 10 minutes! The best of all is that I am able to use the Starter (free) tier of Netlify to host my website and tie it to my custom domain
+.&lt;/p&gt;
+&lt;h3 id="keeping-it-updated"&gt;Keeping it updated&lt;/h3&gt;
+&lt;p&gt;Now that the Netlify pipeline has been setup, I simply have to push my changes to the Github repository, and everything will be &lt;em&gt;automagically&lt;/em&gt; built and deployed live by Netlify in less than a minute. Sweet! &amp;#x1f389;&lt;/p&gt;</description></item></channel></rss>
