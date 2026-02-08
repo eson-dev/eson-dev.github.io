@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Finance |</title><link>https://example.com/tags/finance/</link><atom:link href="https://example.com/tags/finance/index.xml" rel="self" type="application/rss+xml"/><description>Finance</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7b5e4a5bf69ec52a.png</url><title>Finance</title><link>https://example.com/tags/finance/</link></image><item><title>Personal Banking 101 for Newcomers to Canada</title><link>https://example.com/blog/canadian-banking-101/</link><pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate><guid>https://example.com/blog/canadian-banking-101/</guid><description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This article is strongly opinionated based on personal experience.
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance | </title>
+    <link>http://localhost:1313/tags/finance/</link>
+      <atom:link href="http://localhost:1313/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finance</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7b5e4a5bf69ec52a.png</url>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+    </image>
+    
+    <item>
+      <title>Personal Banking 101 for Newcomers to Canada</title>
+      <link>http://localhost:1313/blog/canadian-banking-101/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/canadian-banking-101/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This article is strongly opinionated based on personal experience.
 I am not a certified professional who can provide financial advice.
 Please do your own research and due diligence as your mileage may vary.
 I am not affiliated with any financial institutions. Any referral links I share here
@@ -8,7 +27,7 @@ are generally available to all clients of the service provider.&lt;/em&gt;&lt;/p
 I randomly picked one of the big banks and opened an account with them as soon as I got my Social Insurance Number (SIN).
 It turned out to be quite a mistake, which fortunately didn&amp;rsquo;t cost much, and I was able to move things around
 and optimize my personal finance setup over the years. I hope this post will help you if you are new to Canada. 🍁&lt;/p&gt;
-&lt;h3 id="-your-first-bank-accounts"&gt;🏦 Your First Bank Accounts&lt;/h3&gt;
+&lt;h3 id=&#34;-your-first-bank-accounts&#34;&gt;🏦 Your First Bank Accounts&lt;/h3&gt;
 &lt;p&gt;Unlike in Singapore, where most people use a &lt;strong&gt;savings account&lt;/strong&gt; for everything, there is a big difference
 between &lt;strong&gt;chequing&lt;/strong&gt; and &lt;strong&gt;savings&lt;/strong&gt; accounts in Canada:&lt;/p&gt;
 &lt;ul&gt;
@@ -21,7 +40,7 @@ Transferring fund to chequing account on the same bank is free.&lt;/li&gt;
 &lt;p&gt;Almost all banks charge a &lt;strong&gt;monthly account fee&lt;/strong&gt; 💸, but you can get it waived if you maintain enough &lt;strong&gt;daily&lt;/strong&gt; balance.&lt;/p&gt;
 &lt;p&gt;Based on personal experience, here is what I would do:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Start with one of the
+&lt;li&gt;Start with one of the 
 ,
 avoid credit unions or local/provincial institutions. It&amp;rsquo;ll make your life easier if you move somewhere else.&lt;/li&gt;
 &lt;li&gt;Review all available chequing accounts of the banks to understand their &lt;strong&gt;fees and benefits&lt;/strong&gt;.&lt;/li&gt;
@@ -29,24 +48,24 @@ avoid credit unions or local/provincial institutions. It&amp;rsquo;ll make your 
 &lt;li&gt;If you have enough cash to maintain a high enough daily balance, pick a &lt;strong&gt;high tier chequing account&lt;/strong&gt; to
 combine with a &lt;strong&gt;decent credit card&lt;/strong&gt; 💳 and get the annual fee waived (more on credit cards below).
 &lt;ul&gt;
-&lt;li&gt;Example 1:
+&lt;li&gt;Example 1: 
 &lt;/li&gt;
-&lt;li&gt;Example 2:
+&lt;li&gt;Example 2: 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;You don&amp;rsquo;t really get much interest from their &amp;ldquo;high interest&amp;rdquo; savings account, but you can open one for free anyway.
 There are better ways to earn more interest, which I will elaborate later.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="-credit-cards-and-borrowing"&gt;💳 Credit Cards and Borrowing&lt;/h3&gt;
+&lt;h3 id=&#34;-credit-cards-and-borrowing&#34;&gt;💳 Credit Cards and Borrowing&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Personal Finance 101: You should only use credit cards if you can &lt;strong&gt;pay them fully&lt;/strong&gt; each month!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;When you first arrive in Canada, you have no
+&lt;p&gt;When you first arrive in Canada, you have no 
 .
 Building your credit history is very important as it is how financial institutions assess your ability to repay loans.
 Without one, you won&amp;rsquo;t even be able to take a mortgage to buy your first home.
 Getting your first credit card is usually the first step to get your file opened with the credit bureaus
 (
-and
+ and 
 ).
 After that, you should use your card(s) regularly (and pay them off, of course) to start building your credit score.&lt;/p&gt;
 &lt;p&gt;As you have no credit history, you&amp;rsquo;ll have to use your job offer to proof to the bank that you have the means to pay your credit card bills.
@@ -63,20 +82,20 @@ Shopping and dining in Canada is mostly cashless, so if I&amp;rsquo;m going to p
 &lt;li&gt;
 &lt;/li&gt;
 &lt;li&gt;
-(Note: Amex isn&amp;rsquo;t accepted everywhere)&lt;/li&gt;
+ (Note: Amex isn&amp;rsquo;t accepted everywhere)&lt;/li&gt;
 &lt;li&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Depending on your life style and needs, you can get another card that is more for traveling with free insurance coverage etc.
 However, I would focus on getting rewards from basic needs first (groceries, restaurants, utility bills etc.).&lt;/p&gt;
-&lt;h3 id="-getting-the-best-bang-for-the-buck"&gt;🪙 Getting the Best Bang for the Buck&lt;/h3&gt;
+&lt;h3 id=&#34;-getting-the-best-bang-for-the-buck&#34;&gt;🪙 Getting the Best Bang for the Buck&lt;/h3&gt;
 &lt;p&gt;By now, hopefully you&amp;rsquo;ve settled down and have your accounts and credit cards with a brick-and-mortar bank.
 Most likely, you&amp;rsquo;ve also seen ads on some of the &lt;em&gt;online-only&lt;/em&gt; banks, such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-(Link contains referral code: &lt;code&gt;SVRETW&lt;/code&gt;)&lt;/li&gt;
+ (Link contains referral code: &lt;code&gt;SVRETW&lt;/code&gt;)&lt;/li&gt;
 &lt;li&gt;
-(Referral code: &lt;code&gt;52277300S1&lt;/code&gt;)&lt;/li&gt;
+ (Referral code: &lt;code&gt;52277300S1&lt;/code&gt;)&lt;/li&gt;
 &lt;li&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -87,17 +106,24 @@ Because of this, I would not use them as my &lt;em&gt;one and only&lt;/em&gt; ba
 Please do your own research to analyze if a secondary account on these online banks is ideal for you.
 Personally, I don&amp;rsquo;t mind managing more accounts to take advantages of the benefits,
 but there are others who want to keep the number of accounts minimal for simplicity and peace of mind.&lt;/p&gt;
-&lt;h3 id="-investments"&gt;📈 Investments&lt;/h3&gt;
+&lt;h3 id=&#34;-investments&#34;&gt;📈 Investments&lt;/h3&gt;
 &lt;p&gt;Once you have enough savings accumulated, it&amp;rsquo;s time to think about investment for retirement.&lt;/p&gt;
 &lt;p&gt;I will write about investments in a separate post as there are many different types of accounts involved.
 But to get started, you can look into
+
+
 to see if it is right for you.
 As a newcomer, you normally &lt;em&gt;should not&lt;/em&gt; start with a non-registered (taxable) investment account.&lt;/p&gt;
-&lt;h3 id="-more-resources"&gt;🌐 More resources&lt;/h3&gt;
+&lt;h3 id=&#34;-more-resources&#34;&gt;🌐 More resources&lt;/h3&gt;
 &lt;p&gt;I hope this post has been helpful to you. You can find a lot of guides online, such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;/li&gt;
 &lt;li&gt;
-(YouTube channel focusing on personal finance)&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+ (YouTube channel focusing on personal finance)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

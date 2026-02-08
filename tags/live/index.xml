@@ -1,3 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Live |</title><link>https://example.com/tags/live/</link><atom:link href="https://example.com/tags/live/index.xml" rel="self" type="application/rss+xml"/><description>Live</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7b5e4a5bf69ec52a.png</url><title>Live</title><link>https://example.com/tags/live/</link></image><item><title>Rainbow Six Siege</title><link>https://example.com/projects/rainbow-six-siege/</link><pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate><guid>https://example.com/projects/rainbow-six-siege/</guid><description>&lt;p&gt;I worked in the online team of Rainbow Six Siege during my time with Ubisoft Montreal (2017-2021).&lt;/p&gt;</description></item><item><title>For Honor</title><link>https://example.com/projects/for-honor/</link><pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate><guid>https://example.com/projects/for-honor/</guid><description>&lt;p&gt;Together with a small team in Ubisoft Singapore, we developed the end-to-end solution
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live | </title>
+    <link>http://localhost:1313/tags/live/</link>
+      <atom:link href="http://localhost:1313/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    <description>Live</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7b5e4a5bf69ec52a.png</url>
+      <title>Live</title>
+      <link>http://localhost:1313/tags/live/</link>
+    </image>
+    
+    <item>
+      <title>Rainbow Six Siege</title>
+      <link>http://localhost:1313/projects/rainbow-six-siege/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rainbow-six-siege/</guid>
+      <description>&lt;p&gt;I worked in the online team of Rainbow Six Siege during my time with Ubisoft Montreal (2017-2021).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>For Honor</title>
+      <link>http://localhost:1313/projects/for-honor/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/for-honor/</guid>
+      <description>&lt;p&gt;Together with a small team in Ubisoft Singapore, we developed the end-to-end solution
 for the in-game shop of For Honor, from the game client shop UI to the back-office tool
-to manage the offers and layouts.&lt;/p&gt;</description></item></channel></rss>
+to manage the offers and layouts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

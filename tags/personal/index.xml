@@ -1,7 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal |</title><link>https://example.com/tags/personal/</link><atom:link href="https://example.com/tags/personal/index.xml" rel="self" type="application/rss+xml"/><description>Personal</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7b5e4a5bf69ec52a.png</url><title>Personal</title><link>https://example.com/tags/personal/</link></image><item><title>Fundraising for my son</title><link>https://example.com/blog/support-raphael/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.com/blog/support-raphael/</guid><description>&lt;p&gt;My 2-year old son was recently diagnosed with Autism Spectrum Disorder (ASD).&lt;/p&gt;
-&lt;p&gt;My wife and I have created a
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal | </title>
+    <link>http://localhost:1313/tags/personal/</link>
+      <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7b5e4a5bf69ec52a.png</url>
+      <title>Personal</title>
+      <link>http://localhost:1313/tags/personal/</link>
+    </image>
+    
+    <item>
+      <title>Fundraising for my son</title>
+      <link>http://localhost:1313/blog/support-raphael/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/support-raphael/</guid>
+      <description>&lt;p&gt;My 2-year old son was recently diagnosed with Autism Spectrum Disorder (ASD).&lt;/p&gt;
+&lt;p&gt;My wife and I have created a 
+
 to support his journey with autism:&lt;/p&gt;
-&lt;div class="gfm-embed" data-url="https://www.gofundme.com/f/raphael-autism/widget/large?sharesheet=undefined&amp;attribution_id=sl:85b9c450-89d2-45d9-b2e4-d6a920690715"&gt;&lt;/div&gt;
-&lt;script defer src="https://www.gofundme.com/static/js/embed.js"&gt;&lt;/script&gt;
+&lt;div class=&#34;gfm-embed&#34; data-url=&#34;https://www.gofundme.com/f/raphael-autism/widget/large?sharesheet=undefined&amp;attribution_id=sl:85b9c450-89d2-45d9-b2e4-d6a920690715&#34;&gt;&lt;/div&gt;
+&lt;script defer src=&#34;https://www.gofundme.com/static/js/embed.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;Of course, there is absolutely no obligation to donate. Please only give what you can.
-Even just sharing this with your friends and family would mean a lot to us. &amp;#x1f64f;&lt;/p&gt;</description></item></channel></rss>
+Even just sharing this with your friends and family would mean a lot to us. &amp;#x1f64f;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
