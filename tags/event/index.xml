@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Event |</title><link>https://eson-dev.github.io/tags/event/</link><atom:link href="https://eson-dev.github.io/tags/event/index.xml" rel="self" type="application/rss+xml"/><description>Event</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>https://eson-dev.github.io/media/icon_hu_7b5e4a5bf69ec52a.png</url><title>Event</title><link>https://eson-dev.github.io/tags/event/</link></image><item><title>ConFoo Montreal 2020</title><link>https://eson-dev.github.io/blog/confoo-2020/</link><pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate><guid>https://eson-dev.github.io/blog/confoo-2020/</guid><description>&lt;p&gt;I&amp;rsquo;ve had the opportunity to attend
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Event |</title><link>https://eson-dev.github.io/tags/event/</link><atom:link href="https://eson-dev.github.io/tags/event/index.xml" rel="self" type="application/rss+xml"/><description>Event</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>https://eson-dev.github.io/media/icon_hu_51b0eba646ebd5b3.png</url><title>Event</title><link>https://eson-dev.github.io/tags/event/</link></image><item><title>ConFoo Montreal 2020</title><link>https://eson-dev.github.io/blog/confoo-2020/</link><pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate><guid>https://eson-dev.github.io/blog/confoo-2020/</guid><description>&lt;p&gt;I&amp;rsquo;ve had the opportunity to attend
 at Hotel Bonaventure Montréal this week.
 &lt;figure &gt;
 &lt;div class="flex justify-center "&gt;
 &lt;div class="w-full" &gt;
 &lt;img alt="View from Hotel Bonaventure Montreal"
-srcset="https://eson-dev.github.io/blog/confoo-2020/hotel_hu_10cb76c8322306c2.webp 320w, https://eson-dev.github.io/blog/confoo-2020/hotel_hu_620099fe635dbc21.webp 480w, https://eson-dev.github.io/blog/confoo-2020/hotel_hu_a4d25991450a458a.webp 760w"
+srcset="https://eson-dev.github.io/blog/confoo-2020/hotel_hu_13f4770b0315dce7.webp 320w, https://eson-dev.github.io/blog/confoo-2020/hotel_hu_466b1f28f7cbc67a.webp 480w, https://eson-dev.github.io/blog/confoo-2020/hotel_hu_23a2c39ad908bc51.webp 760w"
 sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://eson-dev.github.io/blog/confoo-2020/hotel_hu_10cb76c8322306c2.webp"
+src="https://eson-dev.github.io/blog/confoo-2020/hotel_hu_13f4770b0315dce7.webp"
 width="760"
 height="760"
 loading="lazy" data-zoomable /&gt;&lt;/div&gt;
@@ -33,9 +33,9 @@ from Google looks promising and I am eager to try it out. It looks like an attem
 &lt;div class="flex justify-center "&gt;
 &lt;div class="w-full" &gt;
 &lt;img alt="SWAGs from ConFoo 2020"
-srcset="https://eson-dev.github.io/blog/confoo-2020/swag_hu_318530e72479cd2c.webp 320w, https://eson-dev.github.io/blog/confoo-2020/swag_hu_15ae9483f2689997.webp 480w, https://eson-dev.github.io/blog/confoo-2020/swag_hu_9d163d0593f12030.webp 760w"
+srcset="https://eson-dev.github.io/blog/confoo-2020/swag_hu_60b967c999be8d1f.webp 320w, https://eson-dev.github.io/blog/confoo-2020/swag_hu_c101119b62a5de20.webp 480w, https://eson-dev.github.io/blog/confoo-2020/swag_hu_bb1ea55b962756ca.webp 760w"
 sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://eson-dev.github.io/blog/confoo-2020/swag_hu_318530e72479cd2c.webp"
+src="https://eson-dev.github.io/blog/confoo-2020/swag_hu_60b967c999be8d1f.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable /&gt;&lt;/div&gt;
@@ -47,9 +47,9 @@ loading="lazy" data-zoomable /&gt;&lt;/div&gt;
 &lt;div class="flex justify-center "&gt;
 &lt;div class="w-full" &gt;
 &lt;img alt="One of the main course"
-srcset="https://eson-dev.github.io/blog/confoo-2020/food_hu_2007ae9c5fca6023.webp 320w, https://eson-dev.github.io/blog/confoo-2020/food_hu_ab54f7047628c6e1.webp 480w, https://eson-dev.github.io/blog/confoo-2020/food_hu_c9def0477e32faeb.webp 760w"
+srcset="https://eson-dev.github.io/blog/confoo-2020/food_hu_5723281f0e91fd6e.webp 320w, https://eson-dev.github.io/blog/confoo-2020/food_hu_b197f1d611006a4.webp 480w, https://eson-dev.github.io/blog/confoo-2020/food_hu_52c3a41dbc3997a4.webp 760w"
 sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://eson-dev.github.io/blog/confoo-2020/food_hu_2007ae9c5fca6023.webp"
+src="https://eson-dev.github.io/blog/confoo-2020/food_hu_5723281f0e91fd6e.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable /&gt;&lt;/div&gt;
@@ -61,9 +61,9 @@ loading="lazy" data-zoomable /&gt;&lt;/div&gt;
 &lt;div class="flex justify-center "&gt;
 &lt;div class="w-full" &gt;
 &lt;img alt="Party"
-srcset="https://eson-dev.github.io/blog/confoo-2020/party_hu_554e01b85858f9c.webp 320w, https://eson-dev.github.io/blog/confoo-2020/party_hu_ae7a300915dc42d6.webp 480w, https://eson-dev.github.io/blog/confoo-2020/party_hu_58c6b13761b5b2d1.webp 760w"
+srcset="https://eson-dev.github.io/blog/confoo-2020/party_hu_a4ac348ce69536b2.webp 320w, https://eson-dev.github.io/blog/confoo-2020/party_hu_a1c16e933dd43a.webp 480w, https://eson-dev.github.io/blog/confoo-2020/party_hu_2f4d8d3342277177.webp 760w"
 sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://eson-dev.github.io/blog/confoo-2020/party_hu_554e01b85858f9c.webp"
+src="https://eson-dev.github.io/blog/confoo-2020/party_hu_a4ac348ce69536b2.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable /&gt;&lt;/div&gt;
@@ -75,9 +75,9 @@ loading="lazy" data-zoomable /&gt;&lt;/div&gt;
 &lt;div class="flex justify-center "&gt;
 &lt;div class="w-full" &gt;
 &lt;img alt="ConFoo Montreal 2020 Event Sponsors"
-srcset="https://eson-dev.github.io/blog/confoo-2020/sponsors_hu_648388b4a0654d0c.webp 320w, https://eson-dev.github.io/blog/confoo-2020/sponsors_hu_6bf5911bd3e98bab.webp 480w, https://eson-dev.github.io/blog/confoo-2020/sponsors_hu_45dd66cfac773d7b.webp 760w"
+srcset="https://eson-dev.github.io/blog/confoo-2020/sponsors_hu_6f920a7c371c2ce.webp 320w, https://eson-dev.github.io/blog/confoo-2020/sponsors_hu_c95b840034357484.webp 480w, https://eson-dev.github.io/blog/confoo-2020/sponsors_hu_265215fb97f4d822.webp 760w"
 sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://eson-dev.github.io/blog/confoo-2020/sponsors_hu_648388b4a0654d0c.webp"
+src="https://eson-dev.github.io/blog/confoo-2020/sponsors_hu_6f920a7c371c2ce.webp"
 width="760"
 height="428"
 loading="lazy" data-zoomable /&gt;&lt;/div&gt;
